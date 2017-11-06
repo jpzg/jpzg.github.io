@@ -1,0 +1,8 @@
+title: Jpzg.github.io
+description: code & robotics
+google_analytics: UA-49878613-1
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
